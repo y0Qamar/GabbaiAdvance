@@ -1,0 +1,53 @@
+GABBAI Project Proposal
+ 23  מַרְחֶשְׁוָן 5783
+Qamar Yocahanan
+
+
+Executive Summary
+Gabbai, (Hebrew: “collector”, ) plural Gabbaim, or Gabbais, honorary official of a congregation. The office is a carry-over from former times, when people who held themselves and were held in accountability fiercely collected funds for mutual aid. These gabbaʾe tzedaqa (collectors of justice) were so esteemed that no financial reports were ever asked for. The Talmud, nonetheless, insisted that they work in pairs to avoid suspicion of wrongdoing.
+
+The Gabbai also calls people to the Torah to receive blessings on Shabbat and Holidays.
+Opportunity
+Due to the intense institutionalization of religion in America, many Rabbis only ever collect information of congregants for reporting purposes for grants, fundraising, or other income. As such, most programs built for gathering and organizing the data of our people is built with the intention of selling it in some way to keep the institution going. It’s ubiquitous, systemic, allowed, but still insidious. Because our culture has made some people more valuable than others, the orientation toward selling people’s information–and by extension the people in our community– leaves gaps. Invariably, those gaps are passively filled with unchecked anti-Blackness, ableism, and LGBTQIA ignorance. Our g*d is described as one who liberates the multitudes, not people who can neatly fit into funding categories. These are all culturally accepted violences that when we build programming for sacred space around them, strips us of what makes us sacred in the first place.
+Solution
+GABBAI is a program that’s primary function is connection to congregation. It holds information  on congregants for the use of the Rabbi only. Congregants are free to describe themselves outside of the usual parameters put forth by databases and apps. Self-identification, access, safety, and support are prioritized.
+
+
+Scope
+My final project is my first iteration. Because the Gabbai takes care of the Torah, all the classes creating the congregants are named for the base components that make ancient Hebrew language and writing. Below, you will find the definitions of the names as well as uses of the classes.
+
+Program Outline
+
+CLASS NAME
+CLASS USE
+CONCEPTS COVERED
+Shoresh - n. root
+Biblical and Rabbinc Hebrew are 2-4 root letter languages.
+The roots themselves have meanings and can sometimes on their own be words,
+but most aren’t words. (In this way, they’re like abstract methods)
+Abstract class where the methods to define congregants exist
+Encapsulation/Abstraction
+
+Ot - n. Letter
+Class representing children in the congregation
+Inheritance/Polymorphism
+
+Milah - n. Word
+Class representing adults
+Inheritance/Polymorphism
+
+Daf - n. Page
+Class with all methods for organizing the data entered
+CRUD/Serialization
+Gabbai - n. Sacred Collector
+Class that manages everything
+Management
+
+
+The development will be test driven. My goal is for each class to have at least one test.
+
+GITHUB LINK
+https://github.com/y0Qamar/GABBAI.git
+
+
+
