@@ -93,7 +93,21 @@ abstract class Shoresh {
         this.accs = accs;
     }
 
-    public void isSober(){
+    public abstract void bpHagefen(); //ot v milah
 
+    public abstract void aliyotReq(); //ot v milah
+
+    @Override
+    public String toString() {
+        return "Shoresh{" +
+                "name='" + name + '\'' +
+                ", age=" + age +
+                ", pNouns='" + pNouns + '\'' +
+                ", shevet='" + shevet + '\'' +
+                ", sup='" + sup + '\'' +
+                ", saf='" + saf + '\'' +
+                ", accs='" + accs + '\'' +
+                '}';
     }
 }
+
