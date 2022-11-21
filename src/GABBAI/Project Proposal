@@ -26,15 +26,16 @@ Biblical and Rabbinc Hebrew are 2-4 root letter languages.
 The roots themselves have meanings and can sometimes on their own be words,
 but most aren’t words. (In this way, they’re like abstract methods)
 Abstract class where the methods to define congregants exist
-Encapsulation/Abstraction
+Abstraction
+
+Milah - n. Word
+Class representing adults
+Inheritance/Polymorphism
 
 Ot - n. Letter
 Class representing children in the congregation
 Inheritance/Polymorphism
 
-Milah - n. Word
-Class representing adults
-Inheritance/Polymorphism
 
 Daf - n. Page
 Class with all methods for organizing the data entered
